@@ -12,5 +12,4 @@ Dynamic icons based on weather conditions (rainy, sunny, cloudy)
 Unit toggle between Celsius and Fahrenheit
 
 Streamlit-based clean and interactive UI
-
 https://github.com/gani67/REAL-WEATHER-APP/blob/868c1b7526974511d7928c02e73623afe9b306f0/weather_app.py
